@@ -32,14 +32,13 @@
     "shot": "1.x.x",
     "statehood": "^1.2.x",
     "topo": "1.x.x",
-    "qs": "2.x.x",
-
+    "qs": "6.0.4",
     "lru-cache": "2.5.x",
     "mime-db": "1.0.x",
     "multiparty": "3.2.x",
-    "negotiator": "0.4.x",
+    "negotiator": "0.6.1",
     "optimist": "0.6.x",
-    "semver": "2.3.x"
+    "semver": "4.3.2"
   },
   "devDependencies": {
     "lab": "4.x.x",
