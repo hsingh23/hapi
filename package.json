@@ -39,7 +39,7 @@
     "multiparty": "3.2.x",
     "negotiator": "0.4.x",
     "optimist": "0.6.x",
-    "semver": "2.3.x"
+    "semver": "7.5.2"
   },
   "devDependencies": {
     "lab": "4.x.x",
